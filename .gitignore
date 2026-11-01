@@ -1,0 +1,12 @@
+node_modules/
+.wrangler/
+.build/
+test-results/
+.dev.vars*
+.env*
+*.log
+*.sqlite*
+.DS_Store
+owner-key*
+worker-secrets*
+secrets/
